@@ -13,6 +13,11 @@
 ; Of course, you need pygame to run this mapeli because python&hy doesn't
 ; have a standard graphics library. Overall mapelies aren't supposed to
 ; hide any important details with third party libraries either. 
+;
+; Mapelies rely on the fact that programming a game is often as fun as
+; playing it. Do not complete them to publish and brag. Nevertheless a
+; well-completed mapeli is capable of entertaining others. Be free to
+; publish but keep in mind it is entirely optional for you.
 ; 
 (import pygame)
 (import random)
